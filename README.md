@@ -7,4 +7,4 @@
 ## 2025
 ### 一月
 
-- 第 1 期：一周是一年的2%
+- 第 1 期：[一周是一年的2%](https://github.com/guizimo/weekly/blob/main/docs/weekly-1.md)
