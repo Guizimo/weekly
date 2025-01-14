@@ -7,4 +7,6 @@
 ## 2025
 ### 一月
 
+- 第 2 期：[白天搬砖，夜里读诗](https://github.com/guizimo/weekly/blob/main/docs/weekly-2.md)
+
 - 第 1 期：[一周是一年的2%](https://github.com/guizimo/weekly/blob/main/docs/weekly-1.md)
