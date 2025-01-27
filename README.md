@@ -7,6 +7,8 @@
 ## 2025
 ### 一月
 
+- 第 4 期：[不在沉默中爆发，就在沉默中灭亡](https://github.com/guizimo/weekly/blob/main/docs/weekly-4.md)
+
 - 第 3 期：[生活有轴心的感觉](https://github.com/guizimo/weekly/blob/main/docs/weekly-3.md)
 
 - 第 2 期：[白天搬砖，夜里读诗](https://github.com/guizimo/weekly/blob/main/docs/weekly-2.md)
