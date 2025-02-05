@@ -5,6 +5,10 @@
 欢迎投稿，推荐或自荐文章/软件/资源，请提交 [issue](https://github.com/guizimo/weekly/issues) 。
 
 ## 2025
+
+### 二月
+- 第 5 期：[关关难过关关过](https://github.com/guizimo/weekly/blob/main/docs/weekly-5.md)
+
 ### 一月
 
 - 第 4 期：[不在沉默中爆发，就在沉默中灭亡](https://github.com/guizimo/weekly/blob/main/docs/weekly-4.md)
