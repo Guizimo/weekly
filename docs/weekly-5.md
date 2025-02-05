@@ -108,7 +108,7 @@ DeepSeekAI 是一款非官方的浏览器扩展插件，基于 [DeepSeek](https:
 
 Github | [地址](https://github.com/terrastruct/d2)
 
-![image-20250205173647924](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205173647924.png)
+![d2](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205173647924.png)
 
 D2 是一种将文本转换为图表的现代图表脚本语言。
 
@@ -118,7 +118,7 @@ D2 是一种将文本转换为图表的现代图表脚本语言。
 
 发现 | [地址](https://www.trae.ai/)
 
-![image-20250205160232786](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205160232786.png)
+![Trae](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205160232786.png)
 
 Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 
@@ -144,7 +144,7 @@ Trae is an adaptive AI IDE that transforms how you work, collaborating with you 
 
 发现 | [地址](https://contentcore.xyz/)
 
-![image-20250205174434954](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205174434954.png)
+![Content Core](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205174434954.png)
 
 一款 3D 的展示工具。
 
@@ -152,7 +152,7 @@ Trae is an adaptive AI IDE that transforms how you work, collaborating with you 
 
 发现 | [地址](https://sampler.dev/)
 
-![image-20250205174805213](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205174805213.png)
+![sampler](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250205174805213.png)
 
 一个很酷的命令行工具。
 
