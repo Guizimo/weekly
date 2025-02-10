@@ -2,7 +2,7 @@
 
 > 本周刊[开源](https://github.com/guizimo/weekly)，欢迎[投稿](https://github.com/guizimo/weekly/issues)。
 >
-> 刊期：2025.2.2 - 2025.2.8。[原文地址](https://blog.guizimo.com/archives/38iCgg6f)。
+> 刊期：2025.2.2 - 2025.2.8。[原文地址](https://blog.guizimo.com/archives/d27hK3AZ)。
 
 ## 封面图
 
@@ -98,7 +98,7 @@ Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large 
 
 Chrome | [地址](https://github.com/is-a-dev/register)
 
-![image-20250209231643788](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250209231643788.png)
+![is-a-dev](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250209231643788.png)
 
 Grab your own sweet-looking '.is-a.dev' subdomain.
 
@@ -142,7 +142,7 @@ Chrome | [地址](https://github.com/jingyaogong/minimind)
 
 发现 | [地址](https://github.com/discourse/discourse)
 
-![image-20250209230029696](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250209230029696.png)
+![discourse](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/image-20250209230029696.png)
 
 一个社区平台，许多知名的项目都在使用该平台，并提供有移动端。
 
@@ -168,7 +168,7 @@ Arc 风格的浏览器，基于 Firefox。
 
 **1、【哪吒之魔童闹海】**
 
-![img](https://img2.doubanio.com/view/photo/l/public/p2916323291.webp)
+![哪吒之魔童闹海](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/p2916323291.webp)
 
 该影片于2025年1月29日在中国大陆2D、3D全版本上映。 是《哪吒之魔童降世》的续集，主要讲述了哪吒与敖丙为保护陈塘关经历天劫后，灵魂虽保住但肉身很快会魂飞魄散，太乙真人打算用七色宝莲给二人重塑肉身，却遭遇七色宝莲灵力不足、自身因被天雷击中而神志不清等重重困难。同时，东海龙王敖光联合其他三位龙王，率领百万妖兽围攻陈塘关，意图为龙族千年被镇压的命运复仇。敖丙在家族责任与友情间挣扎，哪吒虽有魔丸的暴烈性格，却逐渐展现出守护苍生的责任感，两人最终携手海底妖族对抗阐教大师兄的阴谋。
 
