@@ -7,6 +7,8 @@
 ## 2025
 
 ### 二月
+- 第 7 期：[但愿明天也会永远新鲜](https://github.com/guizimo/weekly/blob/main/docs/weekly-7.md)
+
 - 第 6 期：[过年是用360天圆的一个梦](https://github.com/guizimo/weekly/blob/main/docs/weekly-6.md)
 
 - 第 5 期：[关关难过关关过](https://github.com/guizimo/weekly/blob/main/docs/weekly-5.md)
