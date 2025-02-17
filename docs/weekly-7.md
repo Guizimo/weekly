@@ -166,7 +166,7 @@ Create the life you always wanted by building healthy and productive habits
 
 **1、【新神榜：杨戬】**
 
-![img](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/p2878224156.webp)
+![新神榜：杨戬](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/p2878224156.webp)
 
 该影片于 2022 年 8 月 19 日上映。杨戬沦为赏银捕手后，受巫山神女婉罗委托追捕沉香，却逐渐发现婉罗和申公豹想利用沉香修复宝莲灯、劈开华山释放玄鸟。而杨戬的师父玉鼎真人则想维持现状，阻止玄鸟出世。在这个过程中，杨戬历经波折，最终借助玄鸟能量重开天眼，显出元神，镇退玉鼎真人和魔家三兄弟，帮助沉香劈开华山，但三圣母已与玄鸟融为一体，母子相见后便消散于天地。
 
