@@ -1,12 +1,14 @@
 # 归子莫的科技周刊
 
-记录每周值得分享的输入以及个人的输出，每周一发布。
+记录每周值得分享的输入以及个人的输出，每周五发布。
 
 欢迎投稿，推荐或自荐文章/软件/资源，请提交 [issue](https://github.com/guizimo/weekly/issues) 。
 
 ## 2025
 
 ### 二月
+- 第 8 期：[有些积雪会自己融化](https://github.com/guizimo/weekly/blob/main/docs/weekly-8.md)
+
 - 第 7 期：[但愿明天也会永远新鲜](https://github.com/guizimo/weekly/blob/main/docs/weekly-7.md)
 
 - 第 6 期：[过年是用360天圆的一个梦](https://github.com/guizimo/weekly/blob/main/docs/weekly-6.md)
