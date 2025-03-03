@@ -8,6 +8,8 @@
 
 ### 二月
 
+- 第 9 期：[少说无关的话](https://github.com/guizimo/weekly/blob/main/docs/weekly-9.md)
+
 - 第 8 期：[有些积雪会自己融化](https://github.com/guizimo/weekly/blob/main/docs/weekly-8.md)
 
 - 第 7 期：[但愿明天也会永远新鲜](https://github.com/guizimo/weekly/blob/main/docs/weekly-7.md)
