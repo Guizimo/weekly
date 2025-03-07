@@ -6,6 +6,10 @@
 
 ## 2025
 
+### 三月
+
+- 第 10 期：[在 AI 的爆发期人需要更加冷静](https://github.com/guizimo/weekly/blob/main/docs/weekly-10.md)
+
 ### 二月
 
 - 第 9 期：[少说无关的话](https://github.com/guizimo/weekly/blob/main/docs/weekly-9.md)
