@@ -4,6 +4,10 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请提交 [issue](https://github.com/guizimo/weekly/issues) 。
 
+Follow 订阅链接：[https://app.follow.is/share/feeds/69573168071614464](https://app.follow.is/share/feeds/69573168071614464)
+
+网站订阅链接：[https://blog.guizimo.com/categories/ke-ji-zhou-kan](https://blog.guizimo.com/categories/ke-ji-zhou-kan)
+
 ## 2025
 
 ### 三月
