@@ -12,6 +12,8 @@ Follow 订阅链接：[https://app.follow.is/share/feeds/69573168071614464](http
 
 ### 三月
 
+- 第 12 期：[当前端开始触及机器学习](https://github.com/guizimo/weekly/blob/main/docs/weekly-12.md)
+
 - 第 11 期：[AI 伴侣可补充但目前还不能替代现实社交关系](https://github.com/guizimo/weekly/blob/main/docs/weekly-11.md)
 
 - 第 10 期：[在 AI 的爆发期人需要更加冷静](https://github.com/guizimo/weekly/blob/main/docs/weekly-10.md)
