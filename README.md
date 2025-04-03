@@ -4,9 +4,17 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请提交 [issue](https://github.com/guizimo/weekly/issues) 。
 
-Follow 订阅链接：[https://app.follow.is/share/feeds/69573168071614464](https://app.follow.is/share/feeds/69573168071614464)
+**如果对您有帮助，可以帮忙给个Star**。
 
-网站订阅链接：[https://blog.guizimo.com/categories/ke-ji-zhou-kan](https://blog.guizimo.com/categories/ke-ji-zhou-kan)
+> Follow 订阅链接：[https://app.follow.is/share/feeds/69573168071614464](https://app.follow.is/share/feeds/69573168071614464)
+>
+> 网站订阅链接：[https://blog.guizimo.com/categories/ke-ji-zhou-kan](https://blog.guizimo.com/categories/ke-ji-zhou-kan)
+>
+> 微信公众号：归子莫
+>
+> <img src="https://guizimo.oss-cn-shanghai.aliyuncs.com/img/%E5%BD%92%E5%AD%90%E8%8E%AB.jpg" alt="归子莫" style="zoom:50%;" />
+
+
 
 ## 2025
 
