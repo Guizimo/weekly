@@ -12,7 +12,7 @@
 >
 > 微信公众号：归子莫
 >
-> <img src="https://guizimo.oss-cn-shanghai.aliyuncs.com/img/%E5%BD%92%E5%AD%90%E8%8E%AB.jpg" alt="归子莫" style="zoom:50%;" />
+> ![公众号_归子莫](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/%E5%85%AC%E4%BC%97%E5%8F%B7_%E5%BD%92%E5%AD%90%E8%8E%AB.jpg)
 
 
 
