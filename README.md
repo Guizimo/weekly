@@ -18,6 +18,10 @@
 
 ## 2025
 
+### 四月
+
+- 第 14 期：[是在什么时候习惯用句号结尾](https://github.com/guizimo/weekly/blob/main/docs/weekly-14.md)
+
 ### 三月
 
 - 第 13 期：[技术的价值在转变](https://github.com/guizimo/weekly/blob/main/docs/weekly-13.md)
