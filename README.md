@@ -20,8 +20,10 @@
 
 ### 四月
 
+- 第 16 期：[花一笔钱给自己投资](https://github.com/guizimo/weekly/blob/main/docs/weekly-16.md)
+
 - 第 15 期：[如今低代码的发展进度](https://github.com/guizimo/weekly/blob/main/docs/weekly-15.md)
-- 
+
 - 第 14 期：[是在什么时候习惯用句号结尾](https://github.com/guizimo/weekly/blob/main/docs/weekly-14.md)
 
 ### 三月
