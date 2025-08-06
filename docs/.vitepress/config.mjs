@@ -8,7 +8,8 @@ const RSS = {
   description: '记录每周值得分享的输入以及个人的输出，每周五发布',
   language: 'zh-CN',
   copyright: 'Copyright © 2025 归子莫',
-  filename: 'feed.xml'
+  filename: 'rss.xml',
+  image: 'https://weekly.guizimo.com/images/logo.png',
 }
 
 export default defineConfig({
@@ -18,8 +19,8 @@ export default defineConfig({
   lang: 'zh-CN',
   
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: '归子莫的科技周刊 RSS', href: '/feed.xml' }],
+    ['link', { rel: 'icon', href: '/images/logo.png' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: '归子莫的科技周刊 RSS', href: '/rss.xml' }],
     ['meta', { name: 'author', content: '归子莫' }],
     ['meta', { name: 'keywords', content: '科技周刊,技术分享,前端,AI' }]
   ],

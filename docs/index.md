@@ -6,7 +6,7 @@ hero:
   text: "记录每周值得分享的输入以及个人的输出"
   tagline: "每周五发布，一周是一年的2%"
   image:
-    src: https://guizimo.oss-cn-shanghai.aliyuncs.com/img/%E5%85%AC%E4%BC%97%E5%8F%B7_%E5%BD%92%E5%AD%90%E8%8E%AB.jpg
+    src: /images/logo.png
     alt: 归子莫
   actions:
     - theme: brand
@@ -33,7 +33,7 @@ features:
 
 ## 订阅方式
 
-- **🔄 RSS 订阅**：[/feed.xml](/feed.xml)
+- **🔄 RSS 订阅**：[/rss.xml](/rss.xml)
 - **📱 Follow 订阅**：[https://app.follow.is/share/feeds/69573168071614464](https://app.follow.is/share/feeds/69573168071614464)
 - **🌐 网站订阅**：[https://blog.guizimo.com/categories/ke-ji-zhou-kan](https://blog.guizimo.com/categories/ke-ji-zhou-kan)
 - **📝 微信公众号**：归子莫
