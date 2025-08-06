@@ -14,7 +14,6 @@ dist-ssr
 *.local
 
 # pnpm
-pnpm-lock.yaml
 .pnpm-debug.log*
 
 # VitePress cache
