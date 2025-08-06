@@ -10,9 +10,19 @@ lerna-debug.log*
 node_modules
 .DS_Store
 dist
+dist-ssr
 *.local
 
+# pnpm
+pnpm-lock.yaml
+.pnpm-debug.log*
+
+# VitePress cache
+docs/.vitepress/cache
+
 # Editor directories and files
+.vscode/*
+!.vscode/extensions.json
 .idea
 *.suo
 *.ntvs*

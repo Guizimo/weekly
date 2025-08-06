@@ -1,0 +1,22 @@
+{
+  "name": "guizimo-weekly",
+  "version": "1.0.0",
+  "description": "归子莫的科技周刊",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "vitepress-plugin-rss": "^0.3.1"
+  },
+  "homepage": "https://github.com/guizimo/weekly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guizimo/weekly.git"
+  },
+  "author": "归子莫",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.0+sha1.8bfdb6d72b4d5fdf87d21d27f2bfbe2b21dd2629"
+}
