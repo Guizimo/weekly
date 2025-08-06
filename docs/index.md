@@ -33,9 +33,10 @@ features:
 
 ## 订阅方式
 
-- **Follow 订阅**：[https://app.follow.is/share/feeds/69573168071614464](https://app.follow.is/share/feeds/69573168071614464)
-- **网站订阅**：[https://blog.guizimo.com/categories/ke-ji-zhou-kan](https://blog.guizimo.com/categories/ke-ji-zhou-kan)
-- **微信公众号**：归子莫
+- **🔄 RSS 订阅**：[/feed.xml](/feed.xml)
+- **📱 Follow 订阅**：[https://app.follow.is/share/feeds/69573168071614464](https://app.follow.is/share/feeds/69573168071614464)
+- **🌐 网站订阅**：[https://blog.guizimo.com/categories/ke-ji-zhou-kan](https://blog.guizimo.com/categories/ke-ji-zhou-kan)
+- **📝 微信公众号**：归子莫
 
 ## 投稿方式
 

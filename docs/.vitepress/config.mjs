@@ -4,7 +4,7 @@ import { RssPlugin } from 'vitepress-plugin-rss'
 
 const RSS = {
   title: '归子莫的科技周刊',
-  baseUrl: 'https://guizimo.github.io/weekly',
+  baseUrl: 'https://weekly.guizimo.com',
   description: '记录每周值得分享的输入以及个人的输出，每周五发布',
   language: 'zh-CN',
   copyright: 'Copyright © 2025 归子莫',
@@ -14,11 +14,12 @@ const RSS = {
 export default defineConfig({
   title: '归子莫的科技周刊',
   description: '记录每周值得分享的输入以及个人的输出',
-  base: '/weekly/',
+  base: '/',
   lang: 'zh-CN',
   
   head: [
-    ['link', { rel: 'icon', href: '/weekly/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: '归子莫的科技周刊 RSS', href: '/feed.xml' }],
     ['meta', { name: 'author', content: '归子莫' }],
     ['meta', { name: 'keywords', content: '科技周刊,技术分享,前端,AI' }]
   ],
