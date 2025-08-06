@@ -1,6 +1,6 @@
 {
   "name": "guizimo-weekly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "归子莫的科技周刊",
   "scripts": {
     "docs:dev": "vitepress dev docs",
